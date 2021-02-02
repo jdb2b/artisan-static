@@ -5,13 +5,12 @@ return [
     'baseUrl' => 'saaswise.netlify.app',
     'site' => [
         'title' => 'SaaSwise',
-        'description' => 'Personal blog of John Doe.',
+        'description' => 'B2B SaaS consulting to win with mid-market & enterprise customers via technology, analysis, coaching, and operations.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Jon Dwyer',
+        'github' => 'jdb2b',
     ],
     'services' => [
         'cmsVersion' => '2.10.67',
