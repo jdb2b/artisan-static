@@ -1,11 +1,14 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Consulting for early stage founders</h1>
+    <h1>Consulting for early stage founders since 2013</h1>
 
-    <h3>Customer Highlights:</h3>
-    - LeadIQ
-    - 15Five
+    <h3>Customer Highlights:</h3>z
+    * [LeadIQ](https://leadiq.com) $2-10M+ ARR <span class="test-css">$10M Series A in May 2020</span>
+    * [15Five](https://15five.com) $2-10M+ ARR <span class="test-css">$30M Series B in June 2019</span>
+    * [Feathr](https://feathr.co) $0-6M+ ARR <span class="test-css">$11M Series A in January 2020</span>
+    * [BrightFunnel](https://brightfunnel.com) $0-2M+ ARR <span class="test-css">$6M Series A in December 2015</span>
+    * [Sailthru](https://sailthru.com) $2-10M+ ARR <span class="test-css">$20M Series C in December 2013</span>
 
     <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
 
