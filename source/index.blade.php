@@ -1,15 +1,22 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Consulting for early stage founders since 2013</h1>
+    <h1>Consulting for early stage founders since 2014</h1>
 
     <h3>Customer Highlights:</h3>
     <p><a href="https://leadiq.com" target="_blank">LeadIQ</a> $2-10M+ ARR <span class="test-css">$10M Series A in May 2020</span></p>
     <p><a href="https://15five.com" target="_blank">15Five</a> $2-10M+ ARR <span class="test-css">$30M Series B in Jun 2019</span></p>
     <p><a href="https://feathr.co" target="_blank">Feathr</a> $0-6M+ ARR <span class="test-css">$11M Series A in Jan 2020</span></p>
-    <p><a href="https://brightfunnel.com" target="_blank">Brightfunnel</a> $0-2M+ ARR <span class="test-css">$6M Series A in Dec 2015</span></p>
 
-    <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank">
+    <h3>Other Notable Engagements:</h3>
+    <p>True Anthem, Brightfunnel (acquired by Terminus), Hazel (acquired by Rise), Pathgather (acquired by Degreed), Hickory Training (acquired by Moat), WindsorCircle (acquired by WhatCounts)
+
+    <h3>Testimonials:</h3>
+    <p>"Dealing with SaaSwise has been one of the rare instances where someone manages to exceed lofty expectations. I could write several expansive paragraphs describing all of the components of our company they've influenced and improved (GTM, prospecting, sales enablement, customer success, etc.)." - Aleks Levental, CEO Feathr</p>
+    <p>"The approach that SaaSwise takes to building a successful business is quite rare and had a transformative impact on our team's sales and customer success goals. I can't thank them enough for elevating our business in the year prior to our acquisition." - Eric Duffy, CEO Pathgather</p>
+    <p>"SaaSwise immediately changed our company's trajectory at 15Five. They worked across all of our teams to shift our focus to the highest value accounts and helped us hire key people on our go-to-market team. It's one of the best investments we've made with any partner." - David Hassell, CEO 15Five</p>
+
+          <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank">
         <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
     </a>
 
