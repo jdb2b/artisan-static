@@ -9,8 +9,8 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'SaaSwise',
-        'linkedin' => '/company/28979702',
+        'name' => 'Jon Dwyer',
+        'linkedin' => '/in/jondwyer',
     ],
     'services' => [
         'cmsVersion' => '2.10.67',
