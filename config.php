@@ -18,8 +18,8 @@ return [
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'saaswise',
+            'apiKey' => '264838647779948',
         ],
     ],
     'collections' => [
