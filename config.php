@@ -5,12 +5,12 @@ return [
     'baseUrl' => 'saaswise.netlify.app',
     'site' => [
         'title' => 'SaaSwise',
-        'description' => 'B2B SaaS consulting to win with mid-market & enterprise customers via technology, analysis, coaching, and operations.',
+        'description' => 'Accelerating revenue with larger customers.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Jon Dwyer',
-        'github' => 'jdb2b',
+        'name' => 'SaaSwise',
+        'linkedin' => '/company/28979702',
     ],
     'services' => [
         'cmsVersion' => '2.10.67',

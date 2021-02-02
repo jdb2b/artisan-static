@@ -1,7 +1,11 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static</h1>
+    <h1>Consulting for early stage founders</h1>
+
+    <h3>Customer Highlights:</h3>
+    - LeadIQ
+    - 15Five
 
     <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
 
