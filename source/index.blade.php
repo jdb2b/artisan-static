@@ -4,7 +4,7 @@
     <h1>Consulting for early stage founders since 2014</h1>
 
     <h3>Recent Customer Highlights:</h3>
-    <p><a href="https://leadiq.com" target="_blank">LeadIQ</a> $2 to 10M+ in ARR in two years<br><span class="test-css"> $10M Series A in May 2020</span></p>
+    <p><a href="https://leadiq.com" target="_blank">img src="https://res.cloudinary.com/saaswise/image/upload/v1612304308/liqsw_hweabl.svg"</a> $2 to 10M+ in ARR in two years<br><span class="test-css"> $10M Series A in May 2020</span></p>
     <p><a href="https://15five.com" target="_blank">15Five</a> $2 to 10M+ in ARR in two years<br><span class="test-css">$30M Series B in Jun 2019</span></p>
     <p><a href="https://feathr.co" target="_blank">Feathr</a> $0 to 6M+ in ARR in two years <br><span class="test-css">$11M Series A in Jan 2020</span></p>
 
