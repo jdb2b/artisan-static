@@ -2,9 +2,9 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'saaswise.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
+        'title' => 'SaaSwise',
         'description' => 'Personal blog of John Doe.',
         'image' => 'default-share.png',
     ],
