@@ -4,9 +4,9 @@
     <h1>Consulting for early stage founders since 2014</h1>
 
     <h3>Customer Highlights:</h3>
-    <p><a href="https://leadiq.com" target="_blank">LeadIQ</a> $2-10M+ ARR <span class="test-css">$10M Series A in May 2020</span></p>
-    <p><a href="https://15five.com" target="_blank">15Five</a> $2-10M+ ARR <span class="test-css">$30M Series B in Jun 2019</span></p>
-    <p><a href="https://feathr.co" target="_blank">Feathr</a> $0-6M+ ARR <span class="test-css">$11M Series A in Jan 2020</span></p>
+    <p><a href="https://leadiq.com" target="_blank">LeadIQ</a> $2-10M+ ARR <br><span class="test-css"> $10M Series A in May 2020</span></p>
+    <p><a href="https://15five.com" target="_blank">15Five</a> $2-10M+ ARR <br><span class="test-css">$30M Series B in Jun 2019</span></p>
+    <p><a href="https://feathr.co" target="_blank">Feathr</a> $0-6M+ ARR <br><span class="test-css">$11M Series A in Jan 2020</span></p>
 
     <h3>Other Notable Engagements:</h3>
     <p>True Anthem, Brightfunnel (acquired by Terminus), Hazel (acquired by Rise), Pathgather (acquired by Degreed), Hickory Training (acquired by Moat), WindsorCircle (acquired by WhatCounts)
@@ -22,5 +22,5 @@
 
     <h2 id="test">Asset Compilation Test</h2>
 
-    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
+    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>https://www.loom.com/share/d2831956df954a70a9a8f85170fbd977
 @endsection
