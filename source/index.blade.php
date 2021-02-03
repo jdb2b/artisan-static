@@ -5,7 +5,7 @@
 
     <h3>Services:</h3>
     <ul>
-     <li>Operations - scaling Go to Market teams via analysis, hiring, playbooks, and technology deployment.</li>
+     <li>Operations - scaling go-to-market teams with analysis, hiring, playbooks, and technology deployment.</li>
      <li>Coaching - accelerating revenue with mid-market companies via consultative sales and customer planning.</li>
     </ul>
 
@@ -26,7 +26,7 @@
     "The approach that Jon takes to scaling a successful business is quite rare and had a transformative impact on our team's sales and customer success goals. I can't thank him enough for elevating our business for the year leading up to our acquisition."</p>
 
     <p><b>David Hassell, CEO 15Five</b><br>
-    "Jon changed our company's trajectory by 10x. He worked across all of our teams to shift our focus to the highest value accounts and helped us hire all the key go-to-market people. It's one of the best investments we've made with any partner."</p>
+    "Jon changed our company's trajectory by 10x. He worked across all of our teams to shift our focus to the highest value accounts and helped us with  all our key go-to-market hiring. It's one of the best investments we've made with any partner."</p>
 
           <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank">
         <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
