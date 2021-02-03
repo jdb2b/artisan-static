@@ -39,7 +39,7 @@
         <footer>
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                 Jon Dwyer &nbsp;&bull;&nbsp;
+                 Made in USA &nbsp;&bull;&nbsp;
                 <a href="https://linkedin/in/jondwyer">LinkedIn profile</a>.
             </small>
         </footer>
