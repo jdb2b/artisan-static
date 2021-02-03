@@ -2,10 +2,10 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'saaswise.netlify.app',
+    'baseUrl' => 'jondwyer.netlify.app',
     'site' => [
-        'title' => 'SaaSwise',
-        'description' => 'Accelerating revenue with larger customers.',
+        'title' => 'Jon Dwyer',
+        'description' => 'Consulting for early stage SaaS companies',
         'image' => 'default-share.png',
     ],
     'owner' => [
