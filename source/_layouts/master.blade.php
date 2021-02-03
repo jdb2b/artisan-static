@@ -24,6 +24,7 @@
                 <ul>
                     <li><a href="/">Home</a></li>
                     <li><a href="/posts">Posts</a></li>
+                    <li><a href="https://statwise.ck.page/stats">Statwise</a></li>
                     <li><a href="/about">About</a></li>
                     <li><a href="/contact">Contact</a></li>
                 </ul>
@@ -39,7 +40,7 @@
         <footer>
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                Maintained by Jon Dwyer &nbsp;&bull;&nbsp;
+                 Owned by Jon Dwyer &nbsp;&bull;&nbsp;
                 <a href="https://linkedin/in/jondwyer">LinkedIn profile</a>.
             </small>
         </footer>
