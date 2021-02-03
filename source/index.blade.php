@@ -6,7 +6,7 @@
     <h3>Services:</h3>
     <ul>
      <li>Operations - scaling go-to-market teams with analysis, hiring, playbooks, and technology deployment.</li>
-     <li>Coaching - accelerating revenue with mid-market companies via consultative sales and customer planning.</li>
+     <li>Coaching - accelerating revenue from mid-market companies with smarter sales and customer planning.</li>
     </ul>
 
     <h3>Recent Customer Highlights:</h3>
