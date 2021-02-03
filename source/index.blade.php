@@ -4,8 +4,10 @@
     <h1>Consulting for early stage founders since 2014</h1>
 
     <h3>Services:</h3>
-    <p><b>Operations</b> - scaling Go to Market teams via analysis, hiring, playbooks, and technology deployment.</p>
-    <p><b>Coaching</b> - accelerating revenue with mid-market companies via consultative sales and customer engagement.</p>
+    <ul>
+     <li>Operations - scaling Go to Market teams via analysis, hiring, playbooks, and technology deployment.</li>
+     <li>Coaching - accelerating revenue with mid-market companies via consultative sales and customer engagement.</li>
+    </ul>
 
     <h3>Recent Customer Highlights:</h3>
     <p><a href="https://leadiq.com" target="_blank"><img src="https://res.cloudinary.com/saaswise/image/upload/v1612304308/liqsw_hweabl.svg" alt="LeadIQ"></a><br>$2 to 10M+ in ARR in two years <span class="test-css"> $10M Series A in May 2020</span></p>
