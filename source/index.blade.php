@@ -10,9 +10,9 @@
     </ul>
 
     <h3>Recent Customer Highlights:</h3>
-    <p><a href="https://leadiq.com" target="_blank"><img src="https://res.cloudinary.com/saaswise/image/upload/v1612304308/liqsw_hweabl.svg" alt="LeadIQ"></a><br>$2 to 10M+ in ARR in two years <span class="test-css"> $10M Series A in May 2020</span></p>
-    <p><a href="https://15five.com" target="_blank"><img src="https://res.cloudinary.com/saaswise/image/upload/v1612305359/155sw_szsqpp.svg" alt="15Five"></a><br>$2 to 10M+ in ARR in two years <span class="test-css">$30M Series B in Jun 2019</span></p>
-    <p><a href="https://feathr.co" target="_blank"><img src="https://res.cloudinary.com/saaswise/image/upload/v1612305703/feathsw_ns0kyr.svg" alt="Feathr"></a><br>$0 to 5M+ in ARR in two years <span class="test-css">$11M Series A in Jan 2020</span></p>
+    <p><a href="https://leadiq.com" target="_blank"><img src="{{ media('liqsw_hweabl.svg') }}" alt="LeadIQ"></a><br>$2 to 10M+ in ARR in two years <span class="test-css"> $10M Series A in May 2020</span></p>
+    <p><a href="https://15five.com" target="_blank"><img src="{{ media('155sw_szsqpp.svg') }}" alt="15Five"></a><br>$2 to 10M+ in ARR in two years <span class="test-css">$30M Series B in Jun 2019</span></p>
+    <p><a href="https://feathr.co" target="_blank"><img src="{{ media('feathsw_ns0kyr.svg') }}" alt="Feathr"></a><br>$0 to 5M+ in ARR in two years <span class="test-css">$11M Series A in Jan 2020</span></p>
 
     <h3>Other Notable Engagements:</h3>
     <p>Brightfunnel (acquired by Terminus), Hazel (acquired by Rise People), Hickory Training (acquired by Moat), Pathgather (acquired by Degreed), WindsorCircle (acquired by WhatCounts)
