@@ -3,6 +3,14 @@
 @section('content')
     <h1>Consulting for early stage startups since 2013</h1>
 
+    <nav>
+        <ul>
+            <li><a href="/">Clipwise</a></li>
+            <li><a href="/">Coachwise</a></li>
+            <li><a href="/">Statwise</a></li>
+        </ul>
+    </nav>
+
     <h3>Services:</h3>
     <ul>
      <li>Operations - scaling go-to-market teams with analysis, hiring, playbooks, and technology deployment.</li>
