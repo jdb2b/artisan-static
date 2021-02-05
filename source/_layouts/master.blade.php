@@ -30,13 +30,11 @@
             </nav>
         </header>
 
-        <header>
           <nav>
               <ul>
                   <li><h2>Clipwise</h2></li>
               </ul>
           </nav>
-        </header>
 
         <article>
             <section>
