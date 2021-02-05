@@ -31,11 +31,6 @@
         </header>
 
         <article>
-            <nav>
-                <ul>
-                    <li><h2>Clipwise</h2></li>
-                </ul>
-            </nav>
             <section>
                 @yield('content')
             </section>
