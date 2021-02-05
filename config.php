@@ -4,13 +4,13 @@ return [
     'production' => false,
     'baseUrl' => 'jondwyer.netlify.app',
     'site' => [
-        'title' => 'Jon Dwyer',
-        'description' => 'Consulting for early stage SaaS companies',
+        'title' => 'SaaSwise',
+        'description' => 'Consulting for early stage B2B SaaS companies',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'Jon Dwyer',
-        'linkedin' => '/in/jondwyer',
+        'name' => 'SaaSwise',
+        'linkedin' => '//company/28979702',
     ],
     'services' => [
         'cmsVersion' => '2.10.67',
@@ -18,7 +18,7 @@ return [
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'clipwise',
+            'cloudName' => 'saaswise',
             'apiKey' => '264838647779948',
         ],
     ],
