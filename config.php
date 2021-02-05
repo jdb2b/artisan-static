@@ -10,7 +10,7 @@ return [
     ],
     'owner' => [
         'name' => 'SaaSwise',
-        'linkedin' => '//company/28979702',
+        'linkedin' => '/company/28979702',
     ],
     'services' => [
         'cmsVersion' => '2.10.67',
