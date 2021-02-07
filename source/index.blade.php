@@ -1,20 +1,22 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Consulting for early stage startups since 2013</h1>
+    <h1>Consulting for early stage SaaS since 2013</h1>
 
     <nav>
         <ul>
             <li><a href="/">Clipwise</a></li>
             <li><a href="/">Coachwise</a></li>
+            <li><a href="/">Pricewise</a></li>
             <li><a href="/">Statwise</a></li>
         </ul>
     </nav>
 
     <h3>Services:</h3>
     <ul>
-     <li>Operations - scaling go-to-market teams with analysis, hiring, playbooks, and technology deployment.</li>
-     <li>Coaching - accelerating revenue from mid-market companies with smarter sales and customer planning.</li>
+     <li>Operations - scaling go-to-market teams with a combination of analysis, hiring, playbooks, and technology deployment.</li>
+     <li>Analytics - moving beyond the basics of ARR/churn/LTV/CAC to attract larger customers via a usage-based pricing model.</li>
+     <li>Coaching - accelerating revenue from mid-market companies with a more efficient approach to sales and customer planning.</li>
     </ul>
 
     <h3>Recent Customer Highlights:</h3>
