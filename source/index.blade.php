@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Consulting for early stage SaaS since 2013</h1>
 
     <nav>
+        <h1>Consulting for early stage SaaS since 2013</h1>
         <ul>
             <li><a href="/">Clipwise</a></li>
             <li><a href="/">Coachwise</a></li>
