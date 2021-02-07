@@ -15,7 +15,7 @@
     <h3>Services:</h3>
     <ul>
      <li>Operations - scaling go-to-market teams with a combination of analysis, hiring, playbooks, and technology deployment.</li>
-     <li>Analytics - moving beyond the basics of ARR/churn/LTV/CAC to attract larger customers via a usage-based pricing model.</li>
+     <li>Analytics - moving beyond the basics of ARR/churn/LTV/CAC to attract larger customers via usage-based pricing.</li>
      <li>Coaching - accelerating revenue from mid-market companies with a more efficient approach to sales and customer planning.</li>
     </ul>
 
