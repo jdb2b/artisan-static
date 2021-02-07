@@ -5,14 +5,14 @@
     <h1>Consulting for early stage startups since 2013</h1>
 
     <h3>Services:</h3>
-    
+    <nav>
         <ul>
             <li><a href="/">Clipwise</a></li>
             <li><a href="/">Coachwise</a></li>
             <li><a href="/">Pricewise</a></li>
             <li><a href="/">Statwise</a></li>
         </ul>
-
+    </nav>    
     <ul>
      <li>Operations - scaling go-to-market teams via an ongoing combination of analysis, hiring, playbooks, and technology deployment.</li>
      <li>Analytics - moving beyond the basics of ARR/churn/LTV/CAC to shift to usage based pricing and attract larger customers.</li>
