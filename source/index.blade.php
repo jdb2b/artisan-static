@@ -9,8 +9,8 @@
         <ul>
             <li><a href="/">Clipwise</a></li>
             <li><a href="/">Coachwise</a></li>
-            <li><a href="/">Usagewise</a></li>
             <li><a href="/">Statwise</a></li>
+            <li><a href="/">Usagewise</a></li>          
         </ul>
     </nav>
     <ul>
