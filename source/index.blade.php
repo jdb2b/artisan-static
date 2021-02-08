@@ -12,10 +12,10 @@
             <li><a href="/">Pricewise</a></li>
             <li><a href="/">Statwise</a></li>
         </ul>
-    </nav>    
+    </nav>
     <ul>
-     <li>Operations - scaling go-to-market teams via an ongoing combination of analysis, hiring, playbooks, and technology deployment.</li>
-     <li>Analytics - moving beyond the basics of ARR/churn/LTV/CAC to shift to usage based pricing and attract larger customers.</li>
+     <li>Operations - scaling go-to-market teams with a combination of technology, playbooks, hiring, and analysis.</li>
+     <li>Analytics - moving beyond the basics of ARR/churn/LTV/CAC to .</li>
      <li>Coaching - accelerating revenue from mid-market companies with a more efficient approach to sales engagement and customer planning.</li>
     </ul>
 
