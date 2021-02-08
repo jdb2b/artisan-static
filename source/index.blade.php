@@ -9,14 +9,14 @@
         <ul>
             <li><a href="/">Clipwise</a></li>
             <li><a href="/">Coachwise</a></li>
-            <li><a href="/">Pricewise</a></li>
+            <li><a href="/">Usagewise</a></li>
             <li><a href="/">Statwise</a></li>
         </ul>
     </nav>
     <ul>
-     <li>Operations - scaling go-to-market teams with a combination of technology, playbooks, hiring, and analysis.</li>
-     <li>Analytics - moving beyond the basics of ARR/churn/LTV/CAC to .</li>
-     <li>Coaching - accelerating revenue from mid-market companies with a more efficient approach to sales engagement and customer planning.</li>
+     <li>Operations - scaling go-to-market (GTM) teams with a combination of technology, playbooks, hiring, and analysis.</li>
+     <li>Analytics - using data science to incorporate a usage-based revenue model and attract larger customers.</li>
+     <li>Coaching - accelerating revenue from mid-market/enterprise accounts with a smarter approach to sales engagement and customer planning.</li>
     </ul>
 
     <h3>Recent Customer Highlights:</h3>
