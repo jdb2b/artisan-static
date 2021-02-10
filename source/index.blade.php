@@ -10,7 +10,7 @@
             <li><a href="/">Clipwise</a></li>
             <li><a href="/">Coachwise</a></li>
             <li><a href="saaswise.ck.page/stats" target="_blank">Statwise</a></li>
-            <li><a href="saaswise.ck.page/usage" target="_blank">Usagewise</a></li>
+            <li><a href="https://saaswise.ck.page/usage">Usagewise</a></li>
         </ul>
     </nav>
     <ul>
