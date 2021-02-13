@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <h1>Consulting for early stage technology since 2013</h1>
+    <h1>Consulting for early stage teams since 2013</h1>
 
     <h3>Services:</h3>
     <nav>
