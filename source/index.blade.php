@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <h1>Consulting for B2B startups since 2013</h1>
+    <h1>Consulting for early stage technology since 2013</h1>
 
     <h3>Services:</h3>
     <nav>
@@ -15,7 +15,7 @@
     </nav>
     <ul>
      <li>Operations - scaling go-to-market (GTM) teams via a combination of technology, playbooks, hiring, and analysis.</li>
-     <li>Analytics - using data to calrify your best customers, to guide your GTM, to find a usage-based revenue model, and to attract larger customers.</li>
+     <li>Analytics - finding your best customers, building a usage-based revenue model, and attracting larger customers in your GTM.</li>
      <li>Coaching - accelerating revenue from mid-market/enterprise accounts with a smarter approach to sales engagement and customer planning.</li>
     </ul>
 
