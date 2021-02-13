@@ -8,14 +8,14 @@
     <nav>
         <ul>
             <li><a href="https://clipwise.com" target="_blank">Clipwise</a></li>
-            <li><a href="/">Coachwise</a></li>
+            <li><a href="https://saaswise.ck.page/coach" target="_blank">Coachwise</a></li>
             <li><a href="https://saaswise.ck.page/stats" target="_blank">Statwise</a></li>
             <li><a href="https://saaswise.ck.page/usage" target="_blank">Usagewise</a></li>
         </ul>
     </nav>
     <ul>
      <li>Operations - scaling go-to-market (GTM) teams via a combination of technology, playbooks, hiring, and analysis.</li>
-     <li>Analytics - using data science to incorporate a usage-based revenue model and attract larger customers.</li>
+     <li>Analytics - using data to inform your GTM, find a usage-based revenue model, and attract larger customers.</li>
      <li>Coaching - accelerating revenue from mid-market/enterprise accounts with a smarter approach to sales engagement and customer planning.</li>
     </ul>
 
