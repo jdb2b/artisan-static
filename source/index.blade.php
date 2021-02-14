@@ -7,7 +7,6 @@
     <h3>Services:</h3>
     <nav>
         <ul>
-            <li><a href="https://clipwise.com" target="_blank">Clipwise</a></li>
             <li><a href="https://saaswise.ck.page/coach" target="_blank">Coachwise</a></li>
             <li><a href="https://saaswise.ck.page/stats" target="_blank">Statwise</a></li>
             <li><a href="https://saaswise.ck.page/usage" target="_blank">Usagewise</a></li>
