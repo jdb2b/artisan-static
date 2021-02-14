@@ -15,7 +15,7 @@
     </nav>
     <ul>
      <li>Operations - scaling go-to-market (GTM) teams via a combination of technology, playbooks, hiring, and analysis.</li>
-     <li>Analytics - finding your best customers, building a usage-based revenue model, and attracting larger customers in your GTM.</li>
+     <li>Analytics - finding your best customers, building a usage-based revenue model, and attracting larger customers in your GTM plan.</li>
      <li>Coaching - accelerating revenue from mid-market/enterprise accounts with a smarter approach to sales engagement and customer planning.</li>
     </ul>
 
