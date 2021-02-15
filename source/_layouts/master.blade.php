@@ -39,7 +39,7 @@
         <footer>
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                <a href="https://linkedin/in/company/28979702">LinkedIn</a>.
+                <a href="https://linkedin.com/in/company/28979702">LinkedIn</a>.
             </small>
         </footer>
     </section>
