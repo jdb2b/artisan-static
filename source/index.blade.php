@@ -13,9 +13,9 @@
         </ul>
     </nav>
     <ul>
-     <li>Analytics - finding your best customers, building a usage-based revenue model, and attracting large accounts in your go-to-market (GTM) execution.</li>
+     <li>Analytics - finding your best customers, building a usage revenue model into your business, and attracting large accounts in your go-to-market (GTM) execution.</li>
      <li>Coaching - training individuals & teams on how to execute sales engagement and customer planning with mid-market/enterprise accounts.</li>
-     <li>Operations - scaling go-to-market (GTM) teams via a combination of technology, playbooks, hiring, and analysis.</li>
+     <li>Operations - scaling GTM teams via a combination of technology, playbooks, hiring, and performance analysis.</li>
     </ul>
 
     <h3>Recent Customer Highlights:</h3>
