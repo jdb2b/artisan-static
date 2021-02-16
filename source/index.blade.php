@@ -37,7 +37,4 @@
     <p><b>David Hassell, CEO 15Five</b><br>
     "Jon changed our company's trajectory by 10x. He worked across all of our teams to shift our focus to the highest value accounts and helped us with  all our key go-to-market hiring. It's one of the best investments we've made with any partner."</p>
 
-          <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank">
-        <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
-    </a>
 @endsection
