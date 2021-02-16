@@ -8,8 +8,8 @@
     <nav>
         <ul>
             <li><a href="https://saaswise.ck.page/coach" target="_blank"><img src="{{ media('coach_p0qrzo.svg') }}" alt="Coachwise"></a></li>
-            <li><a href="https://saaswise.ck.page/stats" target="_blank">Statwise</a></li>
-            <li><a href="https://saaswise.ck.page/usage" target="_blank">Usagewise</a></li>
+            <li><a href="https://saaswise.ck.page/stats" target="_blank"><img src="{{ media('stat_ft7g6o.svg') }}" alt="Statwise"></a></li>
+            <li><a href="https://saaswise.ck.page/usage" target="_blank"><img src="{{ media('usage_js3cbr.svg') }}" alt="Usagewise"></a></li>
         </ul>
     </nav>
     <ul>
