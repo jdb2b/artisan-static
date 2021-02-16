@@ -1,7 +1,5 @@
 import notyf from './notyf'
 
-const fakeSend = () => new Promise((resolve) => setTimeout(resolve, 2000));
-
 const send = (form) => {
     return fetch(form.action, {
         method: 'POST',
@@ -22,7 +20,7 @@ if (contactForm) {
         e.preventDefault();
         e.target.elements['submit'].disabled = true;
 
-        fakeSend(contactForm)
+        send(contactForm)
             .then((response) => {
                 notyf.success('Your message has been sent.');
                 contactForm.reset();
