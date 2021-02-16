@@ -5,7 +5,7 @@ return [
     'baseUrl' => 'jondwyer.netlify.app',
     'site' => [
         'title' => 'SaaSwise',
-        'description' => 'Consulting for early stage B2B SaaS companies',
+        'description' => 'Consulting for early stage B2B SaaS',
         'image' => 'default-share.png',
     ],
     'owner' => [
@@ -16,7 +16,7 @@ return [
         'cmsVersion' => '2.10.67',
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'artisanstatic',
-        'formcarry' => 'XXXXXXXXXXXX',
+        'formcarry' => 'XfkbpED6UH',
         'cloudinary' => [
             'cloudName' => 'saaswise',
             'apiKey' => '264838647779948',
